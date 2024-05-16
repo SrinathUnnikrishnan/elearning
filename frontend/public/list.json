@@ -1,0 +1,132 @@
+[
+    {
+        
+        "id":1,
+        "name":"Management Book",
+        "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "price":0,
+        "category": "Free",
+        "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+        
+},
+
+
+{
+        
+    "id":2,
+    "name":"Environmental Sciences Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+
+{
+        
+    "id":3,
+    "name":"Law Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+
+{
+        
+    "id":4,
+    "name":"Allied Health Sciences Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+
+{
+        
+    "id":5,
+    "name":"Arts Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+
+{
+        
+    "id":6,
+    "name":"Engineering Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+{
+        
+    "id":7,
+    "name":"Sciences Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+{
+        
+    "id":8,
+    "name":"Communications & Media Studies Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+{
+        
+    "id":9,
+    "name":"Social Sciences Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+{
+        
+    "id":10,
+    "name":"Social Sciences Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+},
+
+{
+        
+    "id":11,
+    "name":"Veterinary Medicine Book",
+    "title":"Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "price":0,
+    "category": "Free",
+    "image":"https://img.freepik.com/free-vector/books-stack-realistic_1284-4735.jpg?t=st=1714971722~exp=1714975322~hmac=c65a4339c75ab764b52db0bb7cbc5b7e0560e08857af7ee7ee515802eeeb36ee&w=826"
+    
+}
+
+
+
+
+
+]
